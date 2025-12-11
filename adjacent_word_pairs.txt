@@ -1,0 +1,11 @@
+doctor,physician
+teacher,instructor
+scientist,researcher
+engineer,technician
+mathematician,statistician
+nurse,caregiver
+librarian,archive
+surgeon,operation
+cashier,clerk
+lawyer,attorney
+ceo,executive

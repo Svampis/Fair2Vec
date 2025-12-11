@@ -1,0 +1,11 @@
+doctor
+teacher
+scientist
+engineer
+mathematician
+nurse
+librarian
+surgeon
+cashier
+lawyer
+ceo
